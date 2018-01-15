@@ -1,0 +1,61 @@
+<div class="paused">Paused</div>
+<div class="slick-slider" id="banner_container"></div>  		
+
+<div id="maincontent" class="container">
+    <div class="sixteen clearfix content">
+	    <div class="four">
+		    <div class="left-sidebar">
+	            <div class="breadcrumb">
+				    <a class="back-btn" href="/about">About</a>
+	            </div>	
+			    <a href="/about/team/executive-management" class="">Executive</a>
+				<a href="/about/team/investment-management" class="">Investment</a>
+				<a href="/about/team/leasing" class="">Leasing</a>
+				<a href="/about/team/real-estate-operations" class="">Operations</a>
+		    </div>	
+		</div>
+	
+	    <div class="twelve">	
+		    <div class="pagecontent">
+			    <h1>Team</h1>
+			    <div id="page_content"></div>
+		    </div>			
+	    </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function(e){
+        init(e);
+        function renderAll(){
+            var repo = getRepoDetailsByName("Team Banner");
+            if (repo != undefined) {
+                var banner_images = repo.images;
+                console.log(banner_images)
+                $.each(banner_images, function(key, val) {
+                    var banner_img_url = val.photo_url_abs;
+                    $("<div><div class='bottom image_medium' style='background-image: url(" + banner_img_url + ");'></div></div>").appendTo("#banner_container");
+                });
+            }
+            
+            var prefix = get_prefix();
+            var pages_json = prefix + "/pages/davpart-contact-information.json"
+            $.getJSON(pages_json).done(function(data) {
+                $('#page_content').html(data.body);
+            }).fail(function(jqXHR) {
+                if (jqXHR.status == 404) {
+                    $("#404_msg").fadeIn("fast");
+                }
+            }); 
+            
+            show_content();
+            
+            $('.slick-slider').slick({
+                arrows: false,
+                dots: true,
+                autoplay: true,
+                autoplaySpeed: 5000  
+            });
+        }
+        loadMallDataCached(renderAll); 
+    });
+</script>
