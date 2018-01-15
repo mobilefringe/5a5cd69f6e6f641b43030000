@@ -216,30 +216,79 @@
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="/development" data-i18n="nav.development">Development</a>
+                        <a href="/development" data-i18n="nav.development">Industrial</a>
                         <ul class="sub-menu">
 	                        <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">In-Progress Projects</a>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
                             </li>
 	                        <li>
-	                            <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Completed Projects</a>
+	                            <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Brampton</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Brantford</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">East York</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">London</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Markham</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
+                            </li>
+                            <li>
+	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
                             </li>
                         </ul>
                     </li>
-                    <li>
-                        <a href="/advisory" data-i18n="nav.advisory">Advisory</a>
-                    </li>
+                  
                     <li class="menu-item-has-children">
-                        <a href="/leasing" data-i18n="nav.leasing">Leasing</a>
+                        <a href="/leasing" data-i18n="nav.leasing">Residential</a>
                         <ul class="sub-menu">
 	                        <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
-	                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Retail Portfolio</a>
+	                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
                             </li>
 	                        <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
-	                            <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Office Portfolio</a>
+	                            <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Brampton</a>
                             </li>
 	                        <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Other Portfolio</a>
+	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
+                            </li>
+                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oakville</a>
+                            </li>
+                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
+                            </li>
+                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Toronto</a>
                             </li>
                         </ul>
                     </li>
