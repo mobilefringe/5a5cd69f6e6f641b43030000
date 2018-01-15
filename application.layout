@@ -299,24 +299,14 @@
                            
                         </li>
                         <li>
-                            <a href="/advisory" data-i18n="nav.advisory">Advisory</a>
+                            <a href="http://davpart.ca/ds1_control.php?section=industrial" data-i18n="nav.advisory">Industrial</a>
                         </li>
                         <li>
-                            <a href="/leasing" data-i18n="nav.leasing">Leasing</a>
-                            <ul class="sub-menu">
-                            	<li>
-                            	    <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Retail Portfolio</a>
-                        	    </li>
-                            	<li>
-                            	    <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Office Portfolio</a>
-                        	    </li>
-                            	<li>
-                            	    <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Other Portfolio</a>
-                    	        </li>
-                            </ul>
+                            <a href="http://davpart.ca/ds1_control.php?section=residential" data-i18n="nav.leasing">Residential</a>
+                           
                         </li>
                         <li>
-                            <a href="/contact">Contact</a>
+                            <a href="/contact">Our History</a>
                         </li>
                     </ul>
                 </div>				
