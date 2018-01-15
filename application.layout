@@ -398,13 +398,12 @@
     				                    <a href="/about/team" data-i18n="nav.subnav.sustainability_report" data-i18n="nav.subnav.team">Homepage</a>
     			                    </li>
                                     <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
-                                        <a href="/sustainability" data-i18n="nav.sustainability">Retail</a>
+                                        <a href="/sustainability" data-i18n="nav.sustainability">Industrial</a>
                                     </li>
                                     <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
-                                        <a href="/about/accomplishments" data-i18n="nav.subnav.accomplishments">Office</a>
+                                        <a href="/about/accomplishments" data-i18n="nav.subnav.accomplishments">Contact Info</a>
                                     </li>
-                                    <li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421">
-                                        <a href="/about/community" data-i18n="nav.subnav.community">Industrial</a>
+                                    
                                     </li>
                                 </ul>
                             </div>
@@ -414,17 +413,12 @@
     					        <div class="menu-footer-2-container">
     					            <ul id="menu-footer-2" class="menu">
     					                <li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94">
-    					                    <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Residential</a>
+    					                    <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Retail</a>
     				                    </li>
                                         <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93">
-                                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Our History</a>
+                                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Residential</a>
                                         </li>
-                                        <li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441">
-                                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Contact Info</a>
-                                        </li>
-                                        <li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96">
-                                            <a href="/development" data-i18n="nav.development">Development</a>
-                                        </li>
+                                     
                                     </ul>
                                 </div>
                             </div>
@@ -434,17 +428,12 @@
     					        <div class="menu-footer-3-container">
     					            <ul id="menu-footer-3" class="menu">
     					                <li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422">
-    					                    <a href="/contact" data-i18n="nav.contact">Contact</a>
+    					                    <a href="/contact" data-i18n="nav.contact">Office</a>
     				                    </li>
                                         <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98">
-                                            <a href="#" data-i18n="nav.subnav.newsletter">Newsletter Signup</a>
+                                            <a href="#" data-i18n="nav.subnav.newsletter">Our History</a>
                                         </li>
-                                        <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97">
-                                            <a href="/about/careers" data-i18n="nav.subnav.careers">Careers</a>
-                                        </li>
-                                        <li id="menu-item-2635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2635">
-                                            <a href="/privacy-policy" data-i18n="nav.subnav.privacy_policy">Privacy Policy</a>
-                                        </li>
+                                      
                                     </ul>
                                 </div>
                             </div>
