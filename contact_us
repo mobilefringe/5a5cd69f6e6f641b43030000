@@ -5,12 +5,14 @@
     <div class="sixteen clearfix content">
 	    <div class="four">
 		    <div class="left-sidebar top-padding">
+		    <a href="/" class="">Homepage</a>
+		      <a href="http://davpart.ca/ds1_control.php?section=retail" class="">Retail</a>
+		        <a href="http://davpart.ca/ds1_control.php?section=office" class="">Office</a>
+		         <a href="http://davpart.ca/ds1_control.php?section=industrial" class="">Industrial</a>
+		         <a href="http://davpart.ca/ds1_control.php?section=residential" class="">Residential</a>
+		          <a href="/about/team" class="">Our History</a>
                 <a href="/contact_us" class="active">Contact Info</a>
-                <a href="/about/team" class="">Team</a>
-                <a href="/about/accomplishments" class="">Accomplishments</a>
-                <a href="/about/community" class="">Community</a>
-                <a href="/about/careers" class="">Careers</a>
-                <a href="/about/news" class="">News</a>
+                
             </div>	
         </div>	
 	    <div class="twelve pagecontent">	
