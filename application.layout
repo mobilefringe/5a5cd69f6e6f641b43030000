@@ -99,7 +99,7 @@
     <script src="/helper.js"></script>
     
     <script>
-        setEndPoint('//20vic.mallmaverick.com/api/v3/20vic/all.json');
+        setEndPoint('//davpart.mallmaverick.com/api/v4/davpart/all.json');
         
         Cookies.set('primary_locale', 'en-CA');
         Cookies.set('secondary_locale', 'fr-CA');
