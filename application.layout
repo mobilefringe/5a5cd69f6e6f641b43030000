@@ -112,10 +112,10 @@
     		    <div class="wpml-ls-legacy-list-horizontal" id="lang_sel_list">
     	            <ul>
     	                <li class="wpml-ls-item">
-    				        <a href="?locale=en" id="set_lang_en"><span>EN</span></a>
+    				       <span>EN</span>
     			        </li>
     			        <li class="wpml-ls-item">
-    				        <a href="?locale=fr" id="set_lang_fr"><span>FR</span></a>
+    				        <span>FR</span>
     			        </li>
     		        </ul>
                 </div>
