@@ -1,0 +1,113 @@
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+        <div class="modal-content">
+            
+            <div class="modal-body">
+                
+                <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2958" method="post" data-id="2958" data-name="20 VIC signup">
+                    <div class="mc4wp-form-fields">
+                        <div role="dialog" aria-labelledby="dialog-title" aria-describedby="dialog-desc">
+                            <h4 id="dialog-title">Sign up for the Davpart e-newsletter</h4>
+                            <p id="dialog-desc" class="newsletter-description">When you never rest, you always have news to share. Sign up below and stay up to date on all of Davpart's news and updates.</p>
+    
+                            <label for="EMAIL" class="sr-only">Enter your email address</label>
+                            <input class="newsletter-email" type="email" name="EMAIL" required="" placeholder="Enter email">
+                            <input class="newsletter-submit" type="submit" value="Sign up">
+                        </div>
+                        <div style="display: none;">
+                            <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off">
+                                
+                        </div>
+                        <input type="hidden" name="_mc4wp_timestamp" value="1502806179">
+                        <input type="hidden" name="_mc4wp_form_id" value="2958">
+                        <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
+                            
+                    </div>
+                    <div class="mc4wp-response"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="paused">Paused</div>
+<div class="slick-slider" id="banner_container"></div>
+
+<div class="callout">
+	<h2>Real Estate Investment & Property Management</h2>
+	<div class="line"></div>
+	<p>Davpart Inc. is a full service real estate investment and property management company establishment in 1993. The Head Office is based out of Toronto, Ontario.</p>
+</div>
+
+<div id="maincontent" class="container">
+    <div class="sixteen clearfix content">
+	    <div class="pagecontent">
+	        <div id="feature_container">
+	            <script id="feature_template" type="x-tmpl-mustache/text">
+	                <div class="one-third clearfix">
+        				<a href="{{url}}">
+        					<div class="featured-pic">
+        					    <div class="color-overlay"></div>
+        						<div class="image-background" style="background-image: url({{image_url}});"></div>
+        					</div>
+        					<h3>{{name}}</h3>
+        					<div class="line"></div>
+        				</a>
+        				<p>{{description}}</p>
+    				</div>
+    			</script>
+	        </div>
+	    </div>  
+    </div>
+</div>
+<script>
+    $(document).ready(function(e){
+        init(e);
+        function renderAll(){
+            var banner_images = getBanners();
+            if (banner_images != undefined) {
+                console.log(banner_images)
+                $.each(banner_images, function(key, val) {
+                    var banner_img_url = val.image_url;
+                    var banner_message = val.name;
+                    $("<div>\
+                        <div class='bottom image_tall' style='background-image: url(" + banner_img_url + ");'>\
+                            <div class='slider_gradient'></div>\
+                            <div class='slide-caption'>\
+                                <div class='text-wrapper'>\
+                                    <h1><p>" + banner_message + "</p></h1>\
+                                </div>\
+                            </div>\
+                        </div>\
+                    </div>").appendTo("#banner_container");
+                });
+            }
+            
+            $('#myModal').modal('show');
+            
+            var prefix = get_prefix();
+            var pages_json = prefix + "/pages/20vic-about.json"
+            $.getJSON(pages_json).done(function(data) {
+                $('#page_content').html(data.body);
+            }).fail(function(jqXHR) {
+                if (jqXHR.status == 404) {
+                    $("#404_msg").fadeIn("fast");
+                }
+            }); 
+            
+            var feature_items = getFeatureList();
+            renderFeatureItems('#feature_container','#feature_template', feature_items);
+            
+            show_content();
+            
+            $('.slick-slider').slick({
+                arrows: false,
+                dots: true,
+                autoplay: true,
+                autoplaySpeed: 5000  
+            });
+        }
+        loadMallDataCached(renderAll); 
+    });
+</script>
