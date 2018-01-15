@@ -10,8 +10,8 @@
 		        <a href="http://davpart.ca/ds1_control.php?section=office" class="">Office</a>
 		         <a href="http://davpart.ca/ds1_control.php?section=industrial" class="">Industrial</a>
 		         <a href="http://davpart.ca/ds1_control.php?section=residential" class="">Residential</a>
-		          <a href="/history" class="">Our History</a>
-                <a href="/contact_us" class="active">Contact Info</a>
+		          <a href="/history" class="active">Our History</a>
+                <a href="/contact_us" class="">Contact Info</a>
                 
             </div>	
         </div>	
