@@ -31,7 +31,7 @@
     </div>
 </div>
 
-<div class="paused">Paused</div>
+<div class="paused"></div>
 <div class="slick-slider" id="banner_container"></div>
 
 <div class="callout">
