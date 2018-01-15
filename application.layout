@@ -400,10 +400,10 @@
     					        <div class="menu-footer-2-container">
     					            <ul id="menu-footer-2" class="menu">
     					                <li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94">
-    					                    <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Retail</a>
+    					                    <a href="http://davpart.ca/ds1_control.php?section=retail" data-i18n="nav.subnav.office_portfolio">Retail</a>
     				                    </li>
                                         <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93">
-                                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Residential</a>
+                                            <a href="http://davpart.ca/ds1_control.php?section=residential" data-i18n="nav.subnav.retail_portfolio">Residential</a>
                                         </li>
                                      
                                     </ul>
@@ -415,10 +415,10 @@
     					        <div class="menu-footer-3-container">
     					            <ul id="menu-footer-3" class="menu">
     					                <li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422">
-    					                    <a href="/contact" data-i18n="nav.contact">Office</a>
+    					                    <a href="http://davpart.ca/ds1_control.php?section=office" data-i18n="nav.contact">Office</a>
     				                    </li>
                                         <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98">
-                                            <a href="#" data-i18n="nav.subnav.newsletter">Our History</a>
+                                            <a href="/history" data-i18n="nav.subnav.newsletter">Our History</a>
                                         </li>
                                       
                                     </ul>
