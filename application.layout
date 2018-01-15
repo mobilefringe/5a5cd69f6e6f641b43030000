@@ -291,7 +291,7 @@
                             
                         </li>
                         <li>
-                            <a href="/sustainability" data-i18n="nav.sustainability">Sustainability</a>
+                            <a href="http://davpart.ca/ds1_control.php?section=retail" data-i18n="nav.sustainability">Retail</a>
                             <ul class="sub-menu">
                             	<li>
                             	    <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Case Studies</a>
