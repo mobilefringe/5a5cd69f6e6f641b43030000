@@ -89,7 +89,7 @@
                 $('#myModal').modal('hide'); 
             } else {
                 $('#myModal').modal('show');    
-                $('body').addClass('no-scroll')
+                $('body').addClass('no_scroll')
             }
             
             
