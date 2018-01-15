@@ -80,6 +80,8 @@ img.medium-width  { width: 100%; height: auto; }
 
 .hidden_now { display: none !important; }
 
+.no-scroll { height: 100%; overflow: hidden; width: 100%; }
+
 /******************************************   GRID   ***************************************************/
 
 .four, .six, .twelve  { position:relative; display:block; float: left; padding: 0; margin: 0; overflow: hidden; min-height: 1px; width: 100%; }
