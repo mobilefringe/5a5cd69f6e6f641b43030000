@@ -592,7 +592,7 @@ LARGE AND UP
   
   
   
-  .one-third            { width: 33%; margin: 0; }
+  .one-third            { width: 25%; margin: 0; }
   .one-third p          { max-width: 14em; margin: 0 auto; padding: 0 1em; }
   .line                 { display: block; transition: width 0.5s; -webkit-transition: width 0.5s; }
   a:hover .line         { background: #ff6d00; width: 8em; }
