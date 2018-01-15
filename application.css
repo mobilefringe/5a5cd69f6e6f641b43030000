@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Dark Gray   - #6d6e71   Used for text and header bg
 Light Gray  - #bdbec1   Used for borders/dividers
-Orange      - #f57b20   Used for titles and sub-menu background
+Orange      - #D0831D   Used for titles and sub-menu background
 Blue        - #96afc5   Used for footer background
 Light Blue  - #dfe7ed   Used for video slide background
 
@@ -38,16 +38,16 @@ html, body          { margin: 0; padding: 0; min-width: 320px; width: 100%; font
 h1, h2, h3, h4, h5  { font-weight: 500; line-height: normal; }
 
 h1  { font-size: 3.5rem; color: #96afc5; margin: 0 0 1rem; }
-h2  { font-size: 2.8rem; color: #f57b20; }
-h3  { font-size: 2.2rem; color: #f57b20; }
+h2  { font-size: 2.8rem; color: #D0831D; }
+h3  { font-size: 2.2rem; color: #D0831D; }
 h4  { font-size: 1.8rem; color: #6d6e71; font-weight: 600; }
 h5  { font-size: 1.6rem; color: #6d6e71; font-weight: 600; margin: 1.4em 0 0.2em; }
 
 p         { font-size: 1.6rem; line-height: 1.5em; font-weight: 400; }
-p a       { color: #f57b20; }
+p a       { color: #D0831D; }
 a         { color:#6d6e71; }
 
-a:not(.no-hover):hover   { text-decoration: none; color:#f57b20; }
+a:not(.no-hover):hover   { text-decoration: none; color:#D0831D; }
 a:visited { color:#9A9A9C; }
 
 a.no-hover { color: #6d6e71; text-decoration: none; }
@@ -118,7 +118,7 @@ img.medium-width  { width: 100%; height: auto; }
 
 #language li:first-child { border-right: 1px solid white; }
 #language a { color: white !important; }
-#language a:hover { background: #f57b20; }
+#language a:hover { background: #D0831D; }
 
 .wpml-ls-legacy-list-horizontal { border: 1px solid transparent; padding: 7px; clear: both; }
 .wpml-ls-legacy-list-horizontal > ul { padding: 0; margin: 0 !important; list-style-type: none; }
@@ -126,7 +126,7 @@ img.medium-width  { width: 100%; height: auto; }
 .wpml-ls-legacy-list-horizontal a { display: block; text-decoration: none; padding: 5px 10px; line-height: 1; }
 
 .wpml-ls-statics-shortcode_actions a { background: transparent !important; }
-.wpml-ls-statics-shortcode_actions a:hover { background: #f57b20 !important; }
+.wpml-ls-statics-shortcode_actions a:hover { background: #D0831D !important; }
 
 /******************************************   SLIDER   *********************************************/
 
@@ -253,7 +253,7 @@ ul.gform_fields           { list-style: none; padding: 0; }
 
 .button,
 input.submit-btn,
-input.gform_button        { display: inline-block; background:#f57b20; width: 100%; padding: 10px 0; max-width: 16em; text-align: center; border: none; color: #fff !important; font-size: 1.8rem; font-weight: 400; text-transform: uppercase; }
+input.gform_button        { display: inline-block; background:#D0831D; width: 100%; padding: 10px 0; max-width: 16em; text-align: center; border: none; color: #fff !important; font-size: 1.8rem; font-weight: 400; text-transform: uppercase; }
 
 .validation_error, .validation_message, .validation_list li a { color: #C81919; margin-bottom: 5px; }
 .gform_confirmation_message { color: #358C58; }
@@ -317,7 +317,7 @@ textarea, div.modal-content, div.modal-content:focus,
 
 .left-sidebar             { list-style: none; padding-bottom: 1em; margin: 0 0 1em; border-bottom: 1px solid #bdbec1; }
 .left-sidebar a           { display: inline-block; line-height: 2em; margin-right: 1em; }
-.left-sidebar a.active    { color: #f57b20; }
+.left-sidebar a.active    { color: #D0831D; }
 .left-sidebar.top-padding { padding-top: 0; }
 
 .breadcrumb         { padding: 1.2em 0;  margin-bottom: 1.2em; width: 90%; text-transform: capitalize; }
@@ -363,7 +363,7 @@ img.tradeplan { max-width: 100%; }
 .sb-select              {text-align: left;margin-bottom: 20px;position: relative; max-height: 40px; overflow: visible; width: 100%;}
 .sb-select .cs-options        {margin-left: 0;}
 .sb-skin-border > span        {background-image: url(../img/dropdown.png);border: 1px solid #cccccc;}
-.sb-skin-border.cs-active > span  {background-image: url(../img/dropdown-active.png);background-color:#f57b20;border-color: #cccccc;color: #fff;}
+.sb-skin-border.cs-active > span  {background-image: url(../img/dropdown-active.png);background-color:#D0831D;border-color: #cccccc;color: #fff;}
 .sb-select .cs-placeholder      {width: 150px;}
 .sb-select.cs-active .cs-options ul {width: 176px;border: 1px solid #cccccc;background: #fff;position:relative;display:block;z-index: 9999999999;}
 .sb-select.cs-active ul span    {width: 176px; position:relative;display:block;z-index: 9999999999;}
@@ -572,8 +572,8 @@ LARGE AND UP
   #menu-main-menu li a:hover  { text-decoration: none; color: #fff; }
   
   /* Sub-menu */
-  #menu-main-menu .orange         { background: #f57b20; }
-  #menu-main-menu .sub-menu       { background: #f57b20; position: absolute; left: 50%; top: 3rem; min-width: 4000px; padding: 10px 0; margin-left: -2000px; text-align: center;
+  #menu-main-menu .orange         { background: #D0831D; }
+  #menu-main-menu .sub-menu       { background: #D0831D; position: absolute; left: 50%; top: 3rem; min-width: 4000px; padding: 10px 0; margin-left: -2000px; text-align: center;
                                     visibility: hidden; transition:visibility 0s linear 0.3s; -webkit-transition:visibility 0s linear 0.3s; }
   #menu-main-menu .sub-menu li    { padding: 0.2em 0 0; }
   #menu-main-menu .sub-menu li a  { font-size: 1.3rem; padding: 0.8em 1em; }
@@ -581,7 +581,7 @@ LARGE AND UP
   #menu-main-menu li.menu-item-has-children > a             { -webkit-transition:background-color 0.2s linear 0.1s; transition:background-color 0.2s linear 0.1s; }
   
   #menu-main-menu li.menu-item-has-children:hover           { z-index: 9000; }
-  #menu-main-menu li.menu-item-has-children:hover > a       { background-color: #f57b20; -webkit-transition-duration: 0s; transition-duration: 0s; -webkit-transition-delay: 0s; transition-delay: 0s; }
+  #menu-main-menu li.menu-item-has-children:hover > a       { background-color: #D0831D; -webkit-transition-duration: 0s; transition-duration: 0s; -webkit-transition-delay: 0s; transition-delay: 0s; }
   #menu-main-menu li.menu-item-has-children:hover .sub-menu { visibility: visible; -webkit-transition-delay: 0s; transition-delay: 0s;  }
   
   
