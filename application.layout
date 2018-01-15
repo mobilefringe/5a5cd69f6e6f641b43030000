@@ -382,13 +382,13 @@
     				        <div class="menu-footer-container">
     				            <ul id="menu-footer" class="menu">
     				                <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
-    				                    <a href="/about/team" data-i18n="nav.subnav.sustainability_report" data-i18n="nav.subnav.team">Homepage</a>
+    				                    <a href="/" data-i18n="nav.subnav.sustainability_report" data-i18n="nav.subnav.team">Homepage</a>
     			                    </li>
                                     <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40">
-                                        <a href="/sustainability" data-i18n="nav.sustainability">Industrial</a>
+                                        <a href="http://davpart.ca/ds1_control.php?section=industrial" data-i18n="nav.sustainability">Industrial</a>
                                     </li>
                                     <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
-                                        <a href="/about/accomplishments" data-i18n="nav.subnav.accomplishments">Contact Info</a>
+                                        <a href="/contact_us" data-i18n="nav.subnav.accomplishments">Contact Info</a>
                                     </li>
                                     
                                     </li>
