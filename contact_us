@@ -5,7 +5,7 @@
     <div class="sixteen clearfix content">
 	    <div class="four">
 		    <div class="left-sidebar top-padding">
-                <a href="/about" class="active">Overview</a>
+                <a href="/contact_us" class="active">Contact Info</a>
                 <a href="/about/team" class="">Team</a>
                 <a href="/about/accomplishments" class="">Accomplishments</a>
                 <a href="/about/community" class="">Community</a>
