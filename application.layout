@@ -190,16 +190,28 @@
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="/sustainability" data-i18n="nav.sustainability">Sustainability</a>
+                        <a href="/sustainability" data-i18n="nav.sustainability">Office</a>
                         <ul class="sub-menu">
 	                        <li>
-	                            <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Case Studies</a>
+	                            <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Brampton</a>
                             </li>
                             <li>
-                                <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">Awards/Certification</a>
+                                <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">London</a>
                             </li>
 	                        <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Sustainability Report</a>
+	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Markham</a>
+                            </li>
+                             <li>
+	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
+                            </li>
+                             <li>
+	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Rochester</a>
+                            </li>
+                             <li>
+	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Timmins</a>
+                            </li>
+                             <li>
+	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Toronto</a>
                             </li>
                         </ul>
                     </li>
