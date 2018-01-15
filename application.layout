@@ -292,28 +292,11 @@
                         </li>
                         <li>
                             <a href="http://davpart.ca/ds1_control.php?section=retail" data-i18n="nav.sustainability">Retail</a>
-                            <ul class="sub-menu">
-                            	<li>
-                            	    <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Case Studies</a>
-                        	    </li>
-                            	<li>
-                            	    <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">Awards/Certification</a>
-                    	        </li>
-                            	<li>
-                            	    <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Sustainability Report</a>
-                        	    </li>
-                            </ul>
+                            
                         </li>
                         <li>
-                            <a href="/development" data-i18n="nav.development">Development</a>
-                            <ul class="sub-menu">
-                            	<li>
-                            	    <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">In-Progress Projects</a>
-                        	    </li>
-                            	<li>
-                            	    <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Completed Projects</a>
-                        	    </li>
-                            </ul>
+                            <a href="http://davpart.ca/ds1_control.php?section=office" data-i18n="nav.development">Office</a>
+                           
                         </li>
                         <li>
                             <a href="/advisory" data-i18n="nav.advisory">Advisory</a>
