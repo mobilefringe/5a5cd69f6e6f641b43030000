@@ -1,36 +1,32 @@
 <div class="paused">Paused</div>
-<div class="slick-slider" id="banner_container"></div>  		
+<div class="slick-slider" id="banner_container"></div>    
 
 <div id="maincontent" class="container">
     <div class="sixteen clearfix content">
 	    <div class="four">
-		    <div class="left-sidebar">
-	            <div class="breadcrumb">
-				    <a class="back-btn" href="/about">About</a>
-	            </div>	
-			    <a href="/about/team/executive-management" class="">Executive</a>
-				<a href="/about/team/investment-management" class="">Investment</a>
-				<a href="/about/team/leasing" class="">Leasing</a>
-				<a href="/about/team/real-estate-operations" class="">Operations</a>
-		    </div>	
-		</div>
-	
-	    <div class="twelve">	
-		    <div class="pagecontent">
-			    <h1>Contact Information</h1>
-			    <div id="page_content"></div>
-		    </div>			
-	    </div>
+		    <div class="left-sidebar top-padding">
+                <a href="/about" class="active">Overview</a>
+                <a href="/about/team" class="">Team</a>
+                <a href="/about/accomplishments" class="">Accomplishments</a>
+                <a href="/about/community" class="">Community</a>
+                <a href="/about/careers" class="">Careers</a>
+                <a href="/about/news" class="">News</a>
+            </div>	
+        </div>	
+	    <div class="twelve pagecontent">	
+			<h1>About</h1>
+		    <div id="page_content"></div>
+	    </div>		
     </div>
 </div>
+
 <script>
     $(document).ready(function(e){
         init(e);
         function renderAll(){
-            var repo = getRepoDetailsByName("Team Banner");
+            var repo = getRepoDetailsByName("About Banner");
             if (repo != undefined) {
                 var banner_images = repo.images;
-                console.log(banner_images)
                 $.each(banner_images, function(key, val) {
                     var banner_img_url = val.photo_url_abs;
                     $("<div><div class='bottom image_medium' style='background-image: url(" + banner_img_url + ");'></div></div>").appendTo("#banner_container");
