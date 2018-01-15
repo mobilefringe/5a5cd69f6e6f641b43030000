@@ -1,0 +1,59 @@
+<div class="paused">Paused</div>
+<div class="slick-slider" id="banner_container"></div>    
+
+<div id="maincontent" class="container">
+    <div class="sixteen clearfix content">
+	    <div class="four">
+		    <div class="left-sidebar top-padding">
+		    <a href="/" class="">Homepage</a>
+		      <a href="http://davpart.ca/ds1_control.php?section=retail" class="">Retail</a>
+		        <a href="http://davpart.ca/ds1_control.php?section=office" class="">Office</a>
+		         <a href="http://davpart.ca/ds1_control.php?section=industrial" class="">Industrial</a>
+		         <a href="http://davpart.ca/ds1_control.php?section=residential" class="">Residential</a>
+		          <a href="/history" class="">Our History</a>
+                <a href="/contact_us" class="active">Contact Info</a>
+                
+            </div>	
+        </div>	
+	    <div class="twelve pagecontent">	
+			<h1>Contact Information</h1>
+		    <div id="page_content"></div>
+	    </div>		
+    </div>
+</div>
+
+<script>
+    $(document).ready(function(e){
+        init(e);
+        function renderAll(){
+            var repo = getRepoDetailsByName("About Banner");
+            if (repo != undefined) {
+                var banner_images = repo.images;
+                $.each(banner_images, function(key, val) {
+                    var banner_img_url = val.photo_url_abs;
+                    $("<div><div class='bottom image_medium' style='background-image: url(" + banner_img_url + ");'></div></div>").appendTo("#banner_container");
+                });
+            }
+            
+            var prefix = get_prefix();
+            var pages_json = prefix + "/pages/davpart-contact-information.json"
+            $.getJSON(pages_json).done(function(data) {
+                $('#page_content').html(data.body);
+            }).fail(function(jqXHR) {
+                if (jqXHR.status == 404) {
+                    $("#404_msg").fadeIn("fast");
+                }
+            }); 
+            
+            show_content();
+            
+            $('.slick-slider').slick({
+                arrows: false,
+                dots: true,
+                autoplay: true,
+                autoplaySpeed: 5000  
+            });
+        }
+        loadMallDataCached(renderAll); 
+    });
+</script>
