@@ -590,8 +590,8 @@ LARGE AND UP
   }
 #menu-main-menu .sub-menu div {
     margin: 0 auto;
-    max-width: 850px;
-    column-count: 8;
+    max-width: 28%;
+    column-count: 9;
 }                                
                                     
   #menu-main-menu .sub-menu li    { padding: 0.2em 0 0; }
