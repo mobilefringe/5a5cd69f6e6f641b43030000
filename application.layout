@@ -261,26 +261,26 @@
                     </li>
                   
                     <li class="menu-item-has-children">
-                        <a href="/leasing" data-i18n="nav.leasing">Residential</a>
+                        <a href="http://davpart.ca/ds1_control.php?section=residential" data-i18n="nav.leasing">Residential</a>
                         <ul class="sub-menu">
                             <div class="residential">
     	                        <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
-    	                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Aurora" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
                                 </li>
     	                        <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
-    	                            <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Brampton</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Brampton" data-i18n="nav.subnav.office_portfolio">Brampton</a>
                                 </li>
     	                        <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Mississauga" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
                                 </li>
                                  <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oakville</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oakville" data-i18n="nav.subnav.other_portfolio">Oakville</a>
                                 </li>
                                  <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oshawa" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
                                 </li>
                                  <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Toronto</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Toronto" data-i18n="nav.subnav.other_portfolio">Toronto</a>
                                 </li>
                             </div>
                         </ul>
