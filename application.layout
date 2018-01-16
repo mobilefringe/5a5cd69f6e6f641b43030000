@@ -181,27 +181,29 @@
                     <li class="menu-item-has-children">
                         <a href="/sustainability" data-i18n="nav.sustainability">Office</a>
                         <ul class="sub-menu">
-	                        <li>
-	                            <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Brampton</a>
-                            </li>
-                            <li>
-                                <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">London</a>
-                            </li>
-	                        <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Markham</a>
-                            </li>
-                             <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
-                            </li>
-                             <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Rochester</a>
-                            </li>
-                             <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Timmins</a>
-                            </li>
-                             <li>
-	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Toronto</a>
-                            </li>
+                            <div class="office">
+    	                        <li>
+    	                            <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Brampton</a>
+                                </li>
+                                <li>
+                                    <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">London</a>
+                                </li>
+    	                        <li>
+    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Markham</a>
+                                </li>
+                                 <li>
+    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
+                                </li>
+                                 <li>
+    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Rochester</a>
+                                </li>
+                                 <li>
+    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Timmins</a>
+                                </li>
+                                 <li>
+    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Toronto</a>
+                                </li>
+                            </div>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
@@ -263,24 +265,26 @@
                     <li class="menu-item-has-children">
                         <a href="/leasing" data-i18n="nav.leasing">Residential</a>
                         <ul class="sub-menu">
-	                        <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
-	                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
-                            </li>
-	                        <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
-	                            <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Brampton</a>
-                            </li>
-	                        <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
-                            </li>
-                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oakville</a>
-                            </li>
-                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
-                            </li>
-                             <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Toronto</a>
-                            </li>
+                            <div class="residential">
+    	                        <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
+    	                            <a href="/leasing/retail-portfolio" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
+                                </li>
+    	                        <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
+    	                            <a href="/leasing/office-portfolio" data-i18n="nav.subnav.office_portfolio">Brampton</a>
+                                </li>
+    	                        <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
+                                </li>
+                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oakville</a>
+                                </li>
+                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
+                                </li>
+                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
+    	                            <a href="/leasing/other-portfolio" data-i18n="nav.subnav.other_portfolio">Toronto</a>
+                                </li>
+                            </div>
                         </ul>
                     </li>
                   
