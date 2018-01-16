@@ -126,54 +126,56 @@
 			        <li class="menu-item-has-children">
 			            <a href="/about" data-i18n="nav.about">Retail</a>
                         <ul class="sub-menu">
-	                        <li>
-	                            <a href="/about/team" data-i18n="nav.subnav.team">Aurora</a>
-                            </li>
-                            <li>
-                                <a href="/about/accomplishments" data-i18n="nav.subnav.accomplishments">Barrie</a>
-                            </li>
-	                        <li>
-	                            <a href="/about/community" data-i18n="nav.subnav.community">Brampton</a>
-                            </li>
-	                        <li>
-	                            <a href="/about/careers" data-i18n="nav.subnav.careers">Hamilton</a>
-                            </li>
-	                        <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Kitchener</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Lindsay</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">London</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Mississauga</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Oakville</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Orillia</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Oshawa</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Rochester</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Scarborough</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Simcoe</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Timmins</a>
-                            </li>
-                              <li>
-                                <a href="/about/news" data-i18n="nav.subnav.news">Toronto</a>
-                            </li>
+                            <div>
+    	                        <li>
+    	                            <a href="/about/team" data-i18n="nav.subnav.team">Aurora</a>
+                                </li>
+                                <li>
+                                    <a href="/about/accomplishments" data-i18n="nav.subnav.accomplishments">Barrie</a>
+                                </li>
+    	                        <li>
+    	                            <a href="/about/community" data-i18n="nav.subnav.community">Brampton</a>
+                                </li>
+    	                        <li>
+    	                            <a href="/about/careers" data-i18n="nav.subnav.careers">Hamilton</a>
+                                </li>
+    	                        <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Kitchener</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Lindsay</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">London</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Mississauga</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Oakville</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Orillia</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Oshawa</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Rochester</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Scarborough</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Simcoe</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Timmins</a>
+                                </li>
+                                  <li>
+                                    <a href="/about/news" data-i18n="nav.subnav.news">Toronto</a>
+                                </li>
+                            </div>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
