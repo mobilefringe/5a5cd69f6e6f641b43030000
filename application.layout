@@ -207,56 +207,54 @@
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="/development" data-i18n="nav.development">Industrial</a>
+                        <a href="http://davpart.ca/ds1_control.php?section=industrial" data-i18n="nav.development">Industrial</a>
                         <ul class="sub-menu">
                             <div class="industrial">
     	                        <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Ajax" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
                                 </li>
     	                        <li>
-    	                            <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Brampton</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Brampton" data-i18n="nav.subnav.completed_projects">Brampton</a>
+                                </li>
+                              
+                                <li>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Burlington" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Brantford</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=East%20York" data-i18n="nav.subnav.in_progress_projects">East York</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Etobicoke" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">East York</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=London" data-i18n="nav.subnav.in_progress_projects">London</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Markham" data-i18n="nav.subnav.in_progress_projects">Markham</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">London</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Mississauga" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Markham</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Oakville" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Pickering" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Rochester" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Scarborough" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Toronto" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Vaughan" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
                                 </li>
                                 <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
-                                </li>
-                                <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
-                                </li>
-                                <li>
-    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Whitby" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
                                 </li>
                             </div>
                         </ul>
