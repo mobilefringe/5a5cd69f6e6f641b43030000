@@ -126,7 +126,7 @@
 			        <li class="menu-item-has-children">
 			            <a href="/about" data-i18n="nav.about">Retail</a>
                         <ul class="sub-menu">
-                            <div>
+                            <div class="retail">
     	                        <li>
     	                            <a href="/about/team" data-i18n="nav.subnav.team">Aurora</a>
                                 </li>
@@ -207,7 +207,7 @@
                     <li class="menu-item-has-children">
                         <a href="/development" data-i18n="nav.development">Industrial</a>
                         <ul class="sub-menu">
-                            <div>
+                            <div class="industrial">
     	                        <li>
     	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
                                 </li>
