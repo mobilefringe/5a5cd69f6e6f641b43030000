@@ -596,7 +596,6 @@ LARGE AND UP
 #menu-main-menu .sub-menu .office {
     margin: 0 35%;
     max-width: 25%;
-    column-count: 9;
 } 
 #menu-main-menu .sub-menu .industrial {
     margin: 0 30%;
@@ -604,9 +603,8 @@ LARGE AND UP
     column-count: 9;
 }
 #menu-main-menu .sub-menu .residential {
-    margin: 0 35%;
+    margin: 0 30%;
     max-width: 25%;
-    column-count: 9;
 } 
                                     
   #menu-main-menu .sub-menu li    { padding: 0.2em 0 0; }
