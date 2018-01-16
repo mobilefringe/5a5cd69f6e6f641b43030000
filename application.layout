@@ -207,54 +207,56 @@
                     <li class="menu-item-has-children">
                         <a href="/development" data-i18n="nav.development">Industrial</a>
                         <ul class="sub-menu">
-	                        <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
-                            </li>
-	                        <li>
-	                            <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Brampton</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Brantford</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">East York</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">London</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Markham</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
-                            </li>
-                            <li>
-	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
-                            </li>
+                            <div>
+    	                        <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
+                                </li>
+    	                        <li>
+    	                            <a href="/development/completed" data-i18n="nav.subnav.completed_projects">Brampton</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Brantford</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">East York</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">London</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Markham</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
+                                </li>
+                                <li>
+    	                            <a href="/development/in-progress" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
+                                </li>
+                            </div>
                         </ul>
                     </li>
                   
