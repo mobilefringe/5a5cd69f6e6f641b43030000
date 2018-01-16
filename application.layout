@@ -161,7 +161,7 @@
                                     <a href="http://davpart.ca/ds1_control.php?section=retail&city=Oshawa" data-i18n="nav.subnav.news">Oshawa</a>
                                 </li>
                                   <li>
-                                    <a href="/about/news" data-i18n="nav.subnav.news">Rochester</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Rochester" data-i18n="nav.subnav.news">Rochester</a>
                                 </li>
                                   <li>
                                     <a href="/about/news" data-i18n="nav.subnav.news">Scarborough</a>
