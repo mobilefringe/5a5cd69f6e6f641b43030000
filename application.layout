@@ -164,44 +164,44 @@
                                     <a href="http://davpart.ca/ds1_control.php?section=retail&city=Rochester" data-i18n="nav.subnav.news">Rochester</a>
                                 </li>
                                   <li>
-                                    <a href="/about/news" data-i18n="nav.subnav.news">Scarborough</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Scarborough" data-i18n="nav.subnav.news">Scarborough</a>
                                 </li>
                                   <li>
-                                    <a href="/about/news" data-i18n="nav.subnav.news">Simcoe</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Simcoe" data-i18n="nav.subnav.news">Simcoe</a>
                                 </li>
                                   <li>
-                                    <a href="/about/news" data-i18n="nav.subnav.news">Timmins</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Timmins" data-i18n="nav.subnav.news">Timmins</a>
                                 </li>
                                   <li>
-                                    <a href="/about/news" data-i18n="nav.subnav.news">Toronto</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Toronto" data-i18n="nav.subnav.news">Toronto</a>
                                 </li>
                             </div>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="/sustainability" data-i18n="nav.sustainability">Office</a>
+                        <a href="http://davpart.ca/ds1_control.php?section=office" data-i18n="nav.sustainability">Office</a>
                         <ul class="sub-menu">
                             <div class="office">
     	                        <li>
-    	                            <a href="/sustainability/case-studies" data-i18n="nav.subnav.case_studies">Brampton</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Brampton" data-i18n="nav.subnav.case_studies">Brampton</a>
                                 </li>
                                 <li>
-                                    <a href="/sustainability/awards-certification" data-i18n="nav.subnav.awards">London</a>
+                                    <a href="http://davpart.ca/ds1_control.php?section=office&city=London" data-i18n="nav.subnav.awards">London</a>
                                 </li>
     	                        <li>
-    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Markham</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Markham" data-i18n="nav.subnav.sustainability_report">Markham</a>
                                 </li>
                                  <li>
-    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Mississauga" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
                                 </li>
                                  <li>
-    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Rochester</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Rochester" data-i18n="nav.subnav.sustainability_report">Rochester</a>
                                 </li>
                                  <li>
-    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Timmins</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Timmins" data-i18n="nav.subnav.sustainability_report">Timmins</a>
                                 </li>
                                  <li>
-    	                            <a href="/sustainability/annual-sustainability-report" data-i18n="nav.subnav.sustainability_report">Toronto</a>
+    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Toronto" data-i18n="nav.subnav.sustainability_report">Toronto</a>
                                 </li>
                             </div>
                         </ul>
