@@ -1,6 +1,6 @@
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">-->
+<!--    <div class="modal-dialog" role="document">-->
+<!--        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>-->
         <!--<div class="modal-content">-->
             
         <!--    <div class="modal-body">-->
@@ -28,8 +28,8 @@
         <!--        </form>-->
         <!--    </div>-->
         <!--</div>-->
-    </div>
-</div>
+<!--    </div>-->
+<!--</div>-->
 
 <div class="paused"></div>
 <div class="slick-slider" id="banner_container"></div>
@@ -84,12 +84,12 @@
                 });
             }
             
-            var window_width = $( window ).width();
-            if (window_width < 769) {
-                $('#myModal').modal('hide'); 
-            } else {
-                $('#myModal').modal('show');    
-            }
+            // var window_width = $( window ).width();
+            // if (window_width < 769) {
+            //     $('#myModal').modal('hide'); 
+            // } else {
+            //     $('#myModal').modal('show');    
+            // }
             
             
             var prefix = get_prefix();
