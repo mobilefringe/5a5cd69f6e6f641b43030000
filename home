@@ -84,12 +84,12 @@
                 });
             }
             
-            // var window_width = $( window ).width();
-            // if (window_width < 769) {
-            //     $('#myModal').modal('hide'); 
-            // } else {
-            //     $('#myModal').modal('show');    
-            // }
+            var window_width = $( window ).width();
+            if (window_width < 769) {
+                $('#myModal').modal('hide'); 
+            } else {
+                $('#myModal').modal('show');    
+            }
             
             
             var prefix = get_prefix();
