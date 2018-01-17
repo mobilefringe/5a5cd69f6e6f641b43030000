@@ -125,58 +125,58 @@
 			    <ul id="menu-main-menu" class="menu">
 			        <li class="menu-item-has-children">
 			            <a href="http://davpart.ca/ds1_control.php?section=retail" data-i18n="nav.about">Retail</a>
-                        <ul class="sub-menu">
-                            <div class="retail">
-    	                        <li>
-    	                            <a href="http://www.davpart.ca/ds1_control.php?building=16" data-i18n="nav.subnav.team">Aurora</a>
-                                </li>
-                                <li>
-                                    <a href="http://www.davpart.ca/ds1_control.php?building=8" data-i18n="nav.subnav.accomplishments">Barrie</a>
-                                </li>
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Brampton" data-i18n="nav.subnav.community">Brampton</a>
-                                </li>
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Hamilton" data-i18n="nav.subnav.careers">Hamilton</a>
-                                </li>
-    	                        <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Kitchener" data-i18n="nav.subnav.news">Kitchener</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Lindsay" data-i18n="nav.subnav.news">Lindsay</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=London" data-i18n="nav.subnav.news">London</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Mississauga" data-i18n="nav.subnav.news">Mississauga</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Oakville" data-i18n="nav.subnav.news">Oakville</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Orillia" data-i18n="nav.subnav.news">Orillia</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Oshawa" data-i18n="nav.subnav.news">Oshawa</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Rochester" data-i18n="nav.subnav.news">Rochester</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Scarborough" data-i18n="nav.subnav.news">Scarborough</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Simcoe" data-i18n="nav.subnav.news">Simcoe</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Timmins" data-i18n="nav.subnav.news">Timmins</a>
-                                </li>
-                                  <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=retail&city=Toronto" data-i18n="nav.subnav.news">Toronto</a>
-                                </li>
-                            </div>
-                        </ul>
+                        <!--<ul class="sub-menu">-->
+                        <!--    <div class="retail">-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://www.davpart.ca/ds1_control.php?building=16" data-i18n="nav.subnav.team">Aurora</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+                        <!--            <a href="http://www.davpart.ca/ds1_control.php?building=8" data-i18n="nav.subnav.accomplishments">Barrie</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=retail&city=Brampton" data-i18n="nav.subnav.community">Brampton</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=retail&city=Hamilton" data-i18n="nav.subnav.careers">Hamilton</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Kitchener" data-i18n="nav.subnav.news">Kitchener</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Lindsay" data-i18n="nav.subnav.news">Lindsay</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=London" data-i18n="nav.subnav.news">London</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Mississauga" data-i18n="nav.subnav.news">Mississauga</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Oakville" data-i18n="nav.subnav.news">Oakville</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Orillia" data-i18n="nav.subnav.news">Orillia</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Oshawa" data-i18n="nav.subnav.news">Oshawa</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Rochester" data-i18n="nav.subnav.news">Rochester</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Scarborough" data-i18n="nav.subnav.news">Scarborough</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Simcoe" data-i18n="nav.subnav.news">Simcoe</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Timmins" data-i18n="nav.subnav.news">Timmins</a>-->
+                        <!--        </li>-->
+                        <!--          <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=retail&city=Toronto" data-i18n="nav.subnav.news">Toronto</a>-->
+                        <!--        </li>-->
+                        <!--    </div>-->
+                        <!--</ul>-->
                     </li>
                     <li class="menu-item-has-children">
                         <a href="http://davpart.ca/ds1_control.php?section=office" data-i18n="nav.sustainability">Office</a>
