@@ -180,110 +180,110 @@
                     </li>
                     <li class="menu-item-has-children">
                         <a href="http://davpart.ca/ds1_control.php?section=office" data-i18n="nav.sustainability">Office</a>
-                        <ul class="sub-menu">
-                            <div class="office">
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Brampton" data-i18n="nav.subnav.case_studies">Brampton</a>
-                                </li>
-                                <li>
-                                    <a href="http://davpart.ca/ds1_control.php?section=office&city=London" data-i18n="nav.subnav.awards">London</a>
-                                </li>
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Markham" data-i18n="nav.subnav.sustainability_report">Markham</a>
-                                </li>
-                                 <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Mississauga" data-i18n="nav.subnav.sustainability_report">Mississauga</a>
-                                </li>
-                                 <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Rochester" data-i18n="nav.subnav.sustainability_report">Rochester</a>
-                                </li>
-                                 <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Timmins" data-i18n="nav.subnav.sustainability_report">Timmins</a>
-                                </li>
-                                 <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=office&city=Toronto" data-i18n="nav.subnav.sustainability_report">Toronto</a>
-                                </li>
-                            </div>
-                        </ul>
+                        <!--<ul class="sub-menu">-->
+                        <!--    <div class="office">-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Brampton" data-i18n="nav.subnav.case_studies">Brampton</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+                        <!--            <a href="http://davpart.ca/ds1_control.php?section=office&city=London" data-i18n="nav.subnav.awards">London</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Markham" data-i18n="nav.subnav.sustainability_report">Markham</a>-->
+                        <!--        </li>-->
+                        <!--         <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Mississauga" data-i18n="nav.subnav.sustainability_report">Mississauga</a>-->
+                        <!--        </li>-->
+                        <!--         <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Rochester" data-i18n="nav.subnav.sustainability_report">Rochester</a>-->
+                        <!--        </li>-->
+                        <!--         <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Timmins" data-i18n="nav.subnav.sustainability_report">Timmins</a>-->
+                        <!--        </li>-->
+                        <!--         <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=office&city=Toronto" data-i18n="nav.subnav.sustainability_report">Toronto</a>-->
+                        <!--        </li>-->
+                        <!--    </div>-->
+                        <!--</ul>-->
                     </li>
                     <li class="menu-item-has-children">
                         <a href="http://davpart.ca/ds1_control.php?section=industrial" data-i18n="nav.development">Industrial</a>
-                        <ul class="sub-menu">
-                            <div class="industrial">
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Ajax" data-i18n="nav.subnav.in_progress_projects">Ajax</a>
-                                </li>
-    	                        <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Brampton" data-i18n="nav.subnav.completed_projects">Brampton</a>
-                                </li>
+                        <!--<ul class="sub-menu">-->
+                        <!--    <div class="industrial">-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Ajax" data-i18n="nav.subnav.in_progress_projects">Ajax</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Brampton" data-i18n="nav.subnav.completed_projects">Brampton</a>-->
+                        <!--        </li>-->
                               
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Burlington" data-i18n="nav.subnav.in_progress_projects">Burlington</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=East%20York" data-i18n="nav.subnav.in_progress_projects">East York</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Etobicoke" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=London" data-i18n="nav.subnav.in_progress_projects">London</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Markham" data-i18n="nav.subnav.in_progress_projects">Markham</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Mississauga" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Oakville" data-i18n="nav.subnav.in_progress_projects">Oakville</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Pickering" data-i18n="nav.subnav.in_progress_projects">Pickering</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Rochester" data-i18n="nav.subnav.in_progress_projects">Rochester</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Scarborough" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Toronto" data-i18n="nav.subnav.in_progress_projects">Toronto</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Vaughan" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>
-                                </li>
-                                <li>
-    	                            <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Whitby" data-i18n="nav.subnav.in_progress_projects">Whitby</a>
-                                </li>
-                            </div>
-                        </ul>
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Burlington" data-i18n="nav.subnav.in_progress_projects">Burlington</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=East%20York" data-i18n="nav.subnav.in_progress_projects">East York</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Etobicoke" data-i18n="nav.subnav.in_progress_projects">Etobicoke</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=London" data-i18n="nav.subnav.in_progress_projects">London</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Markham" data-i18n="nav.subnav.in_progress_projects">Markham</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Mississauga" data-i18n="nav.subnav.in_progress_projects">Mississauga</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Oakville" data-i18n="nav.subnav.in_progress_projects">Oakville</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Pickering" data-i18n="nav.subnav.in_progress_projects">Pickering</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Rochester" data-i18n="nav.subnav.in_progress_projects">Rochester</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Scarborough" data-i18n="nav.subnav.in_progress_projects">Scarborough</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Toronto" data-i18n="nav.subnav.in_progress_projects">Toronto</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Vaughan" data-i18n="nav.subnav.in_progress_projects">Vaughan</a>-->
+                        <!--        </li>-->
+                        <!--        <li>-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=industrial&city=Whitby" data-i18n="nav.subnav.in_progress_projects">Whitby</a>-->
+                        <!--        </li>-->
+                        <!--    </div>-->
+                        <!--</ul>-->
                     </li>
                   
                     <li class="menu-item-has-children">
                         <a href="http://davpart.ca/ds1_control.php?section=residential" data-i18n="nav.leasing">Residential</a>
-                        <ul class="sub-menu">
-                            <div class="residential">
-    	                        <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Aurora" data-i18n="nav.subnav.retail_portfolio">Aurora</a>
-                                </li>
-    	                        <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Brampton" data-i18n="nav.subnav.office_portfolio">Brampton</a>
-                                </li>
-    	                        <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Mississauga" data-i18n="nav.subnav.other_portfolio">Mississauga</a>
-                                </li>
-                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oakville" data-i18n="nav.subnav.other_portfolio">Oakville</a>
-                                </li>
-                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oshawa" data-i18n="nav.subnav.other_portfolio">Oshawa</a>
-                                </li>
-                                 <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">
-    	                            <a href="http://davpart.ca/ds1_control.php?section=residential&city=Toronto" data-i18n="nav.subnav.other_portfolio">Toronto</a>
-                                </li>
-                            </div>
-                        </ul>
+                        <!--<ul class="sub-menu">-->
+                        <!--    <div class="residential">-->
+    	                   <!--     <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Aurora" data-i18n="nav.subnav.retail_portfolio">Aurora</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Brampton" data-i18n="nav.subnav.office_portfolio">Brampton</a>-->
+                        <!--        </li>-->
+    	                   <!--     <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Mississauga" data-i18n="nav.subnav.other_portfolio">Mississauga</a>-->
+                        <!--        </li>-->
+                        <!--         <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oakville" data-i18n="nav.subnav.other_portfolio">Oakville</a>-->
+                        <!--        </li>-->
+                        <!--         <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Oshawa" data-i18n="nav.subnav.other_portfolio">Oshawa</a>-->
+                        <!--        </li>-->
+                        <!--         <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439">-->
+    	                   <!--         <a href="http://davpart.ca/ds1_control.php?section=residential&city=Toronto" data-i18n="nav.subnav.other_portfolio">Toronto</a>-->
+                        <!--        </li>-->
+                        <!--    </div>-->
+                        <!--</ul>-->
                     </li>
                   
                 </ul>
