@@ -565,7 +565,7 @@ LARGE AND UP
   
   .navbar-toggle              { display: none; }
   .mobile-navbar-collapse     { display: none; }
-  .header-menu-container      { display: block; position: absolute; text-align: right; bottom: 9px; right: 40px;}
+  .header-menu-container      { display: block; position: absolute; text-align: right; bottom: 12px; right: 40px;}
 
   #menu-main-menu             { position: relative; margin: 0; }
   #menu-main-menu li          { display: inline-block; position: relative; z-index: 100; }
