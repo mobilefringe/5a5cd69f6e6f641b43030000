@@ -1,3 +1,13 @@
+<style>
+    .navbar-toggle {
+    position: absolute;
+    top: 5px;
+    right: 1em;
+    background-image: url(//codecloud.cdn.speedyrails.net/sites/598b0eb…/image/png/1502462142000/navicon.png);
+    background-color: #044A7B;
+    background-size: contain;
+}
+</style>
 <!DOCTYPE html>
 <html lang="en">
 <head>
